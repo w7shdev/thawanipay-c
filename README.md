@@ -14,7 +14,7 @@
   </p>
 </p>
   <p align="center">
-  <a href="#">Download latest release</a>
+  <a href="https://github.com/w7shdev/thawanipay-c/releases/download/0.1.0/thawanipayc.zip">Download latest release</a>
 </p>
 <br />
 

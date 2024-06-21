@@ -7,13 +7,12 @@
   <h1 align="center">ThawaniPay C</h1>
 
   <p align="center">
-<!-- Enables Credit/Debit card payments through Thawani on your WooCommerce shop. -->
     Enables Credit/Debit card payments through ThawaniPay on your WooCommerce shop.
     <br />
     <br />
     <a href="https://github.com/w7shdev/thawanipay-c">Report a bug</a>
   </p>
-    - A. upload it in the admin dashboard > plugins > install plugin.</p>
+</p>
   <p align="center">
   <a href="#">Download latest release</a>
 </p>

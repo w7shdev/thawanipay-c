@@ -2,9 +2,9 @@
 
 /**
  * Plugin Name: ThawaniPay C
- * Plugin URI: https://github.com/w7shdev/thawawnipay-c
+ * Plugin URI: https://github.com/w7shdev/thawanipay-c
  * Author: w7shdev
- * Author URI: https://github.com/w7shdev/thawawnipay-c
+ * Author URI: https://github.com/w7shdev/thawanipay-c
  * Description: Thawani Payments Gateway for Woocommerce with support for blocks.
  * Version: 0.1.0
  * License: MIT

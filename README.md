@@ -71,15 +71,11 @@ For live account, please create a [merchant account](https://thawani.om/merchant
 
 1. **Download** the .zip file from this repository.
 
-![download zip file](./static/download_zip.PNG)
-
 2. **Go to: WordPress Admin > Plugins > Add New** to upload the .zip file you downloaded with Choose File.
 
-![install the plugin](./static/thawani_install.gif)
 
 3. **Activate** the extension. (If you haven't already in the previous step)
 
-![activate the plugin](./static/activate_plugin_blur.PNG)
 
 More information at: [Managing Plugins](https://wordpress.org/support/article/managing-plugins/).
 
@@ -151,24 +147,6 @@ The plugin keeps a record of:
 - Payment Status
 - Total Amount
 
-To access the session history:
-**Go to: WordPress Admin > Thawani Gateway**
-
-![session history](./static/session_history.png)
-
-## Customer Checkout Flow
-
-![customer workflow](./static/customer_workflow.gif)
-
-Nothing will be change from WooCommerce's default customer checkout flow. Customers will see an option on their checkout page to select payment via Thawani as shown in the image below:
-
-![checkout with thawani](./static/checkout_page.png)
-
-## Admin Order Fulfillment Flow
-
-To view all orders **Go to: WooCommerce > Orders**
-
-![go to order page](./static/order_page.png)
 
 Note that this plugin automatically updates the order status as follows:
 
@@ -184,7 +162,6 @@ For more information about WooCommerce Orders, Go to: [Managing Orders](https://
 - Q. How can I use this plugin?
     - A. upload it in the admin dashboard > plugins > install plugin.
 
-
 ## License
 
-Distributed under the MIT License. See [License] (https://github.com/PhazeRoOman/thawani-for-woocommerce/blob/changes/LICENSE.md) for more information.
+Distributed under the MIT License. See [License](./LICENSE.md) for more information.

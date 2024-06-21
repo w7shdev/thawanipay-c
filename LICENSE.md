@@ -1,4 +1,4 @@
-MIT License Copyright (c) 2021 PhazeRo
+MIT License Copyright (c) 2024 w7shdev
 
 Permission is hereby granted,
 free of charge, to any person obtaining a copy of this software and associated

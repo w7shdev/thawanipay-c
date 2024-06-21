@@ -1,7 +1,7 @@
 {
 	"name": "thawani-blocks",
 	"version": "0.1.0",
-	"author": "The WordPress Contributors",
+	"author": "w7shdev",
 	"license": "GPL-2.0-or-later",
 	"main": "build/index.js",
 	"scripts": {

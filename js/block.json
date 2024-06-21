@@ -1,0 +1,16 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 3,
+    "name": "w7shdev/thawani-checkout",
+    "version": "0.1.0",
+    "title": "Thawani checkout payment",
+    "category": "woocommerce",
+    "icon": "smiley",
+    "description": "add thawni checkout payment.",
+    "example": {},
+    "supports": {
+        "html": false
+    },
+    "textdomain": "copyright-date-block",
+    "editorScript": "file:./index.js"
+}

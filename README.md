@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/w7shdev/thawanipay-c">
-    <img src="./asset/thawani.svg" alt="Logo" width="150" style="background-color: white">
+    <img src="./asset/logo.svg" alt="Logo" width="150" style="background-color: white">
   </a>
 
   <h1 align="center">ThawaniPay C</h1>
